@@ -1,9 +1,9 @@
-﻿#Android Studio
+﻿#1 Android Studio
 ##  Sqlite
 ##  DDMS
 ##  AAPT打包
 
-#Third party libraries
+#2 Third party libraries
 ##  Google Http Client
 ##  ActiveAnroid
 ##  百度地图
@@ -17,7 +17,7 @@
 ##  Sweet Alert
 ##  支付宝
 
-#Android SDK
+#3 Android SDK
 ##  Intent和IntentFilter
 ##  Activity生命周期
 ##  Fragement
