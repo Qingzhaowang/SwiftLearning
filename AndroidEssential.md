@@ -15,6 +15,7 @@
 ##  WebSocket
 ##  ButterKnife
 ##  Sweet Alert
+##  支付宝
 
 #Android SDK
 ##  Intent和IntentFilter
